@@ -1,4 +1,4 @@
-
+:imagesdir: images
 = IsyFact-Einstieg: Inhalt
 
 // tag::inhalt[]
@@ -33,7 +33,7 @@ Sie umfasst Standards und Erweiterungen.
 :desc-image-IFS-IFE: Die verschiedenen Ebenen der IsyFact
 [id="image-IFS-IFE",reftext="{figure-caption} {counter:figures}"]
 .{desc-image-IFS-IFE}
-image::images/IFS-IFE.png[align="center"]
+image::IFS-IFE.png[align="center"]
 
 Die *IsyFact-Standards* bilden das architektonische, technologische und methodische Fundament der IsyFact.
 Sie umfassen allgemeingültige und wiederverwendbare Konzepte und Komponenten, die für die Entwicklung beliebiger Fachanwendungen relevant sind.
