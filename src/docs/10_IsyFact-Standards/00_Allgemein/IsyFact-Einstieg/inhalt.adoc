@@ -1,4 +1,4 @@
-:imagesdir: images
+//:imagesdir: images
 = IsyFact-Einstieg: Inhalt
 
 // tag::inhalt[]
