@@ -1,0 +1,10 @@
+//:imagesdir: images/
+=== IsyFact: Standards und Erweiterungen
+
+Die *IsyFact* ist eine freie allgemeine Software Factory zum Bau von IT-Systemen, die vom Bundesverwaltungsamt (BVA) bereitgestellt wird.
+Sie umfasst Standards und Erweiterungen.
+
+:desc-image-Capgemini: gssssssssssssssssedg gfgggg Capgemini
+[id="image-Capgemini",reftext="{figure-caption} {counter:figures}"]
+.{desc-image-Capgemini}
+image::Capgemini.jpg[align="center"]
